@@ -1,0 +1,1 @@
+This is a basic tool used for testing APIs only thing you need to do is "cat <wordlist> | python3 ApiFuzzer.py". The target can be changed from within itself and can be used with custom wordlists of your liking.
